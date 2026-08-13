@@ -1,0 +1,7 @@
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10              # normal quantiles (MDES / power)
+openpyxl>=3.1
+altair>=5.2
+vl-convert-python>=1.0   # static PNG/SVG export for Altair
+statsmodels>=0.14        # REML variance components (ICC); mixed models
